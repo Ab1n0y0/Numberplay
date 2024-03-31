@@ -1,0 +1,29 @@
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\java practice>Java Num.java
+Enter a two-digit integer: 56
+Difference between digits: 1
+
+D:\java practice>Java Num.java
+Enter a two-digit integer: 48
+Reversed number: 84
+Difference between digits: 4
+
+D:\java practice>Java Num.java
+Enter a two-digit integer: 9
+Invalid number
+
+D:\java practice>Java Num.java
+Enter a two-digit integer: 41
+Reversed number: 14
+Difference between digits: 3
+
+D:\java practice>
+
+
+
+
+
+
+          
